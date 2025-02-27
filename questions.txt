@@ -1,0 +1,100 @@
+Táo|Apple
+Chuối|Banana
+Cam|Orange
+Dâu|Strawberry
+Nho|Grape
+Dưa hấu|Watermelon
+Xoài|Mango
+Thơm|Pineapple
+Bưởi|Pomelo
+Dừa|Coconut
+Chó|Dog
+Mèo|Cat
+Cá|Fish
+Bò|Cow
+Ngựa|Horse
+Gà|Chicken
+Vịt|Duck
+Heo|Pig
+Bướm|Butterfly
+Ong|Bee
+Cây|Tree
+Hoa|Flower
+Lá|Leaf
+Cỏ|Grass
+Bầu trời|Sky
+Mặt trời|Sun
+Mặt trăng|Moon
+Sao|Star
+Mưa|Rain
+Gió|Wind
+Lửa|Fire
+Núi|Mountain
+Sông|River
+Biển|Sea
+Hồ|Lake
+Đất|Earth
+Bụi|Dust
+Băng|Ice
+Tuyết|Snow
+Gỗ|Wood
+Đá|Stone
+Vàng|Gold
+Bạc|Silver
+Đồng|Copper
+Sắt|Iron
+Thép|Steel
+Muối|Salt
+Đường|Sugar
+Cơm|Rice
+Thịt|Meat
+Trứng|Egg
+Rau|Vegetable
+Trái cây|Fruit
+Bánh mì|Bread
+Nước|Water
+Sữa|Milk
+Cà rốt|Carrot
+Khoai tây|Potato
+Hành|Onion
+Tỏi|Garlic
+Muỗng|Spoon
+Nĩa|Fork
+Dao|Knife
+Dĩa|Plate
+Ly|Glass
+Tách|Cup
+Bình|Bottle
+Chén|Bowl
+Quần áo|Clothes
+Áo|Shirt
+Quần|Pants
+Giày|Shoes
+Vớ|Socks
+Nón|Hat
+Đồng hồ|Watch
+Mắt kính|Glasses
+Cặp|Bag
+Ví|Wallet
+Xe đạp|Bicycle
+Xe máy|Motorbike
+Máy bay|Airplane
+Tàu|Train
+Thuyền|Boat
+Thang|Ladder
+Búa|Hammer
+Đinh|Nail
+Dây|Rope
+Đèn|Lamp
+Tường|Wall
+Sàn|Floor
+Trần nhà|Ceiling
+Giường|Bed
+Gối|Pillow
+Chăn|Blanket
+Bàn|Table
+Ghế|Chair
+Nhà|House
+Cửa sổ|Window
+Cửa|Door
+Điện thoại|Phone
