@@ -16,6 +16,7 @@
    - Cui (1000)
    - Xu 60M
    - Lượng 60K
+   - Canh sắc màu tối sáng
 
 🔹 **Gói 300K**:
    - Hộp quà hải tặc (1)
@@ -46,6 +47,7 @@
    - Xu 150M
    - Lượng 150K
    - 50 Manh canh bat ky
+   - 5 Đá ngũ hành (mỗi loại 5 viên)
 
 🔹 **Gói 1.000K (1 Triệu)**:
    - Hộp quà hải tặc (6)
@@ -56,6 +58,7 @@
    - Xu 300M
    - Lượng 300K
    - 100 Manh canh bat ky
+   - +Vật phẩm gói nạp trên
 
 📢 **Lưu ý**:
 ✅ Quà sẽ được gửi ngay sau khi hoàn tất giao dịch.
