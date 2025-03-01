@@ -25,7 +25,7 @@
    - **Event Nữ**: +60 Dame (3 món) → 180 dame
    - **Set Thor**: +200 Dame (3 món) → 600 dame
    - **Set Iron**: +220 Dame (3 món) → 660 dame
-   - **Set Chiến Binh hoặc Pháp Sư Đồ Long**: +180 Dame (3 món) → 540 dame, nếu đủ Đao → 790 dame
+   - **Set Chiến Binh hoặc Pháp Sư Đồ Long**: +220 Dame (3 món) → 660 dame, nếu đủ Đao → 1000 dame
    - **Riêng Đảo Đồ Long**: +250 Dame
    - **Thanh Vũ Truy Hồn**: +400 Dame
    - **Cánh Nhiệt Huyết Hawaii**: +400 Dame
@@ -38,8 +38,8 @@
    - **Hoa Phong Thần**: +150 Dame
 
 🎁 Phần thưởng:
-   - **Top 1**: Update sau
-   - **Top 2**: Update sau
-   - **Top 3**: Update sau
+   - **Top 1**: Set Doreamon + Pet Khung Long Phung Lua
+   - **Top 2**: Set Doreamon + Pet Thien Than Tinh Yeu
+   - **Top 3**: Set Doreamon + Pet Tieu Tien Xanh
 
 🚀 Đừng bỏ lỡ! Hãy sẵn sàng chinh phục thử thách và tận hưởng mùa hè rực rỡ! 🌴
