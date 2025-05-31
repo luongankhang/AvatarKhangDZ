@@ -1,1 +1,4 @@
-OK
+{
+  "NAME": [[[ "Thị Trấn", "Mây Hồng" ]], [[ "International Server", "Aries City" ]]],
+  "IP": [[[ "ateadebian.io.vn" ], []], [[ "ateadebian.io.vn" ]]]
+}
