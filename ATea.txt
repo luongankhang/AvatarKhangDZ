@@ -1,4 +1,4 @@
 {
   "NAME": [[[ "Thị Trấn", "Debian" ]], [[ "International Server", "Aries City" ]]],
-  "IP": [[[ "160.191.214.149" ], []], [[ "ateadebian.io.vn" ]]]
+  "IP": [[[ "127.0.0.1" ], []], [[ "ateadebian.io.vn" ]]]
 }
