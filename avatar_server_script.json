@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "names": ["Xu So Dieu Ky", "Thanh Pho Hoan My", "Thanh Pho Dieu Ky"],
+      "ips": ["112.213.85.102", "112.213.85.101"],
+      "ports": [19128, 19128],
+      "dataUrls": [
+        "http://teamobi.com/srvips/avatar2.txt",
+        "http://trochoididong.us/srvips/avatar_C.txt"
+      ]
+    },
+    {
+      "names": [],
+      "ips": [],
+      "ports": [],
+      "dataUrls": [
+        "http://teamobi.com/srvips/avatarinterd2.txt",
+        "http://trochoididong.us/srvips/avatarinter_C.txt"
+      ]
+    }
+  ]
+}
