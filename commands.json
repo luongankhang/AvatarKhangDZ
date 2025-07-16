@@ -1,0 +1,22 @@
+{
+  "setProviderAndClientType": -1,
+  "setProviderAndClientType2": -17,
+  "setProviderAndClientType3": -79,
+  "setProviderAndClientType4": -86,
+  "doLogin": -2,
+  "getHandler": -1,
+  "doJoinPark": 50,
+  "doJoinFarm": 61,
+  "smartFarm": -77,
+  "smartProduct": -59,
+  "doUsingItem": 65,
+  "doReplant": 64,
+  "doHarvest": 66,
+  "doHarvestStarFruit": 85,
+  "doFly": 92,
+  "doCooking": 91,
+  "doHarvestAnimal": 74,
+  "doSellAnimal": 73,
+  "doShopAnimal": 71,
+  "doStringAnimal": 72
+}
