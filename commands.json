@@ -18,5 +18,6 @@
   "doHarvestAnimal": 74,
   "doSellAnimal": 73,
   "doShopAnimal": 71,
-  "doStringAnimal": 72
+  "doStringAnimal": 72,
+  "doAttendance": -59
 }
