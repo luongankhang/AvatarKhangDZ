@@ -1,4 +1,4 @@
 {
-  "NAME": [[[ "Thị Trấn", "Debian" ]], [[ "International Server", "Aries City" ]]],
-  "IP": [[[ "127.0.0.1" ], []], [[ "ateadebian.io.vn" ]]]
+  "NAME": [[[ "Xứ sở avatar", "ánh dương mùa hạ" ]], [[ "International Server", "Aries City" ]]],
+  "IP": [[[ "ateahost.io.vn" ], []], [[ "ateahost.io.vn" ]]]
 }
