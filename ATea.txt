@@ -1,4 +1,4 @@
 {
-  "NAME": [[[ "Xứ sở avatar", "ánh dương mùa hạ" ]], [[ "International Server", "Aries City" ]]],
-  "IP": [[[ "ateahost.io.vn" ], []], [[ "ateahost.io.vn" ]]]
+  "NAME": [[[ "Xu So Dieu Ky", "Thanh Pho Hoan My", "Thanh Pho Dieu Ky" ]], [[ "International Server", "Aries City" ]]],
+  "IP": [[[ "112.213.85.102", "112.213.85.101" ], []], [[ "112.78.1.25" ]]]
 }
